@@ -1,0 +1,52 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [
+    "5a9f6b60-1b1d-4f34-9dce-e3de7a515882",
+    "0491f150-e9d2-4ff3-9649-102a795f6c3e"
+  ],
+  "fb-instant-games": {
+    "hide": false
+  },
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": true,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.examplecases",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "startScene": "4e3c7282-c87b-4d77-8a9d-8b57c16f9953",
+  "title": "SlimeJump",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx1234d2031a772642",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "de565b49-7232-43",
+  "zipCompressJs": true
+}

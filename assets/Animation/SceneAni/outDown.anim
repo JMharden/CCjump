@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "outDown",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.3,
+          "value": 0
+        },
+        {
+          "frame": 0.5666666666666667,
+          "value": -1263.1578947368419
+        },
+        {
+          "frame": 0.6166666666666667,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "YganmeOver",
+      "params": []
+    },
+    {
+      "frame": 0.5666666666666667,
+      "func": "removeCube",
+      "params": []
+    }
+  ]
+}

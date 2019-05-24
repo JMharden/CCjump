@@ -1,0 +1,70 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "electric_hurtAni",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.16666666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {
+      "light": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                0.05684343434343433,
+                0.5777020202020202,
+                0.44426767676767676,
+                0.9621212121212122
+              ]
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 255,
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "electric": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                -0.022979797979797982,
+                0.7954545454545455,
+                0.5,
+                0.5
+              ]
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 255,
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

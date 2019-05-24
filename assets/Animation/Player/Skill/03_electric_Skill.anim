@@ -1,0 +1,332 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "electricAni",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.3333333333333333,
+  "sample": 30,
+  "speed": 2,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "electric_0": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.15,
+                "y": 1.15
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.13,
+                "y": 1.13
+              }
+            },
+            {
+              "frame": 0.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.23,
+                "y": 1.23
+              }
+            },
+            {
+              "frame": 0.6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.05,
+                "y": 1.05
+              }
+            },
+            {
+              "frame": 0.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "cubicInOut"
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "electric_zi": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "60d785d6-ffe4-43f7-95d3-8e61c9cb5078"
+                }
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": {
+                  "__uuid__": "1bd45295-74d1-4958-826b-647ec91ff002"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "8b65ce49-c539-423f-9cb2-4178320442e1"
+                }
+              },
+              {
+                "frame": 0.5333333333333333,
+                "value": {
+                  "__uuid__": "9475d4a0-05d3-4329-b433-b583c37c4dfb"
+                }
+              },
+              {
+                "frame": 0.7333333333333333,
+                "value": {
+                  "__uuid__": "7aa88d84-0922-4d89-a995-46959401ca1f"
+                }
+              },
+              {
+                "frame": 0.9,
+                "value": {
+                  "__uuid__": "8b65ce49-c539-423f-9cb2-4178320442e1"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "8b65ce49-c539-423f-9cb2-4178320442e1"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 100
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 255,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.4,
+              "value": 255,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 255,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.6,
+              "value": 0,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.8,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.9,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.13333333333333333,
+      "func": "hurt1",
+      "params": []
+    },
+    {
+      "frame": 0.26666666666666666,
+      "func": "hurt2",
+      "params": []
+    },
+    {
+      "frame": 0.4,
+      "func": "hurt3",
+      "params": []
+    },
+    {
+      "frame": 0.5333333333333333,
+      "func": "hurt4",
+      "params": []
+    },
+    {
+      "frame": 0.6666666666666666,
+      "func": "hurt5",
+      "params": []
+    },
+    {
+      "frame": 0.8,
+      "func": "hurt6",
+      "params": []
+    },
+    {
+      "frame": 0.9333333333333333,
+      "func": "hurt7",
+      "params": []
+    },
+    {
+      "frame": 1.3333333333333333,
+      "func": "playEnd",
+      "params": []
+    }
+  ]
+}

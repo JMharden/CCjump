@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hurt_Ani",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "76367a4f-5f60-4181-8c9b-ffaf9467345b"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "e4649f76-c83f-40c6-9fbe-39137a45d9bf"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "555296ff-e01a-4c3a-9db5-08b9fcf4d7cc"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "83f73242-1b2c-4f0b-a148-a61da0ec2b7c"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "d84ba2fa-5cc3-4445-a562-9996dd92b115"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": null
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

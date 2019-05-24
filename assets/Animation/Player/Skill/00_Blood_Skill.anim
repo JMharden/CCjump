@@ -1,0 +1,69 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Skill_Blood00",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": "38",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9d3395cd-6cc5-44de-864c-ebd2d5dec2cb"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "0037bee4-8853-4f0a-b1ee-df92cdb81674"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "f7c387aa-03ca-452d-ad0d-ef9054bc7b54"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "2c9342a2-9828-415a-b1c4-6e9efe469498"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 200
+        },
+        {
+          "frame": 0.1,
+          "value": 188.3
+        },
+        {
+          "frame": 0.2,
+          "value": 194.5
+        },
+        {
+          "frame": 0.3,
+          "value": 185.9
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.3,
+      "func": "playEnd",
+      "params": []
+    }
+  ]
+}

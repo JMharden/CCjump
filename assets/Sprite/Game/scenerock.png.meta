@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a4905834-d5c8-4c36-a07c-8be6ecb95e42",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "scenerock": {
+      "ver": "1.0.3",
+      "uuid": "3f9e6f1c-33f3-4c3b-9653-7285f7532307",
+      "rawTextureUuid": "a4905834-d5c8-4c36-a07c-8be6ecb95e42",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 638,
+      "height": 455,
+      "rawWidth": 639,
+      "rawHeight": 455,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

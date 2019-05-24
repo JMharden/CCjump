@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hurtNumberAni",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {
+      "hurtData": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                -0.01606306972160638,
+                0.6718896279871891,
+                0.5364745011086474,
+                0.9605321507760531
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": 110
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.5,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5,
+      "func": "playEnd",
+      "params": []
+    }
+  ]
+}
